@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Environment files
+# .env
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Auth & cache WhatsApp Web JS
+.wwebjs_auth/
+.wwebjs_cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VSCode settings (optional)
+.vscode/
